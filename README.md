@@ -7,11 +7,11 @@ To run this Node.js application, you'll need to follow these steps:
 
 3. Install Required Packages: In your project directory, open a terminal and run the following command to install the required Node.js packages listed in your package.json:
 
-npm install express body-parser ejs mongoose
+`npm install express body-parser ejs mongoose`
 
 4. Running the Application: In the terminal, navigate to your project directory and run the following command to start your Node.js application:
 
-node app.js
+`node app.js`
 
 You should see the message "Server started" in the console, indicating that your application is running.
 
